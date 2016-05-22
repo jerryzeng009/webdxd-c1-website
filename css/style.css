@@ -87,7 +87,7 @@ nav{
 
 .model div h1{
 	position:absolute;
-	bottom:0;
+	top:50%;
 	left:0;
 	font-size: 2rem;
 	color :white;
